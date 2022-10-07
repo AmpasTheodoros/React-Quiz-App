@@ -80,7 +80,7 @@ export default function App() {
 
 	return (
 		<div className='app'>
-			{/*logic to display the score when the user has answered all the questions */}
+			{//logic to display the score when the user has answered all the questions //}
 			{showScore ? (
         handleBestScore(score),
 				<div className='score-section'>You scored {score} out of {questions.length}<p>Best score is {bestScore}</p><button onClick={handleResetButtonClick}>Reset</button></div>

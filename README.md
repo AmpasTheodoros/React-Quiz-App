@@ -23,4 +23,4 @@ In the future, I plan to add additional features to the app such as:
 
 ## Credits
 
-This project was created by [AmpasTheodoros](https://github.com/AmpasTheodoros) as a way to learn and practice React. The quiz questions and answers were sourced from [OpenTriviaDB](https://opentdb.com/).
+This project was created by [AmpasTheodoros](https://github.com/AmpasTheodoros) as a way to learn and practice React Hooks, components, props, useState(). The quiz questions and answers were sourced from [OpenTriviaDB](https://opentdb.com/).
